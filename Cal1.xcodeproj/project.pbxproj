@@ -12,6 +12,7 @@
 		FDD77CC4224DCBD800807996 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDD77CC2224DCBD800807996 /* Main.storyboard */; };
 		FDD77CC6224DCBD900807996 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FDD77CC5224DCBD900807996 /* Assets.xcassets */; };
 		FDD77CC9224DCBD900807996 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDD77CC7224DCBD900807996 /* LaunchScreen.storyboard */; };
+		FDD77CD1224DCC7200807996 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = FDD77CD0224DCC7200807996 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FDD77CC5224DCBD900807996 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FDD77CC8224DCBD900807996 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FDD77CCA224DCBD900807996 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FDD77CD0224DCC7200807996 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		FDD77CB2224DCBD800807996 = {
 			isa = PBXGroup;
 			children = (
+				FDD77CD0224DCC7200807996 /* .gitignore */,
 				FDD77CBD224DCBD800807996 /* Cal1 */,
 				FDD77CBC224DCBD800807996 /* Products */,
 			);
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FDD77CD1224DCC7200807996 /* .gitignore in Resources */,
 				FDD77CC9224DCBD900807996 /* LaunchScreen.storyboard in Resources */,
 				FDD77CC6224DCBD900807996 /* Assets.xcassets in Resources */,
 				FDD77CC4224DCBD800807996 /* Main.storyboard in Resources */,
